@@ -78,7 +78,7 @@ let mainConfig = {
       {
         rel: "icon",
         type: "image/png",
-        href: "https://tiebapic.baidu.com/favicon.ico"
+        href: "https://avatars.githubusercontent.com/u/131938961"
       }
     ]
   ]
