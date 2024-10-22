@@ -36,7 +36,15 @@ let mainConfig = {
       },
       {
         name: "Github",
+        link: "https://github.com/astering"
+      },
+      {
+        name: "Source",
         link: "https://github.com/astering/Issue-Blog"
+      },
+      {
+        name: "Docs",
+        link: "https://astering.github.io/docsify"
       },
       {
         name: "CV",
