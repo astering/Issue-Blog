@@ -3,7 +3,7 @@ name: gen
 on:
   push:
     branches:
-      - pages
+      - main
   issues:
     types:
       [

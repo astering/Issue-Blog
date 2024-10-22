@@ -13,7 +13,7 @@ let mainConfig = {
   repoConfig: {
     owner: "astering",
     repo: "Issue-Blog",
-    pushBranch: "main",
+    pushBranch: "pages",
     email: "131938961+astering@users.noreply.github.com",
     filterUsers: ['astering']
   },
